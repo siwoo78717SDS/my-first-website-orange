@@ -10,7 +10,7 @@ function HomePage() {
       }}
     >
       <h1 style={{ fontFamily: '"Comic Sans MS", fantasy', color: '#4b9be1' }}>
-        {"Airliner's website"}
+        {"Orange's website"}
       </h1>
       <h2
         style={{
